@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MT61K256M32
+D GDDR6 Micron
+F https://media-www.micron.com/-/media/client/global/documents/products/data-sheet/dram/gddr/gddr6/gddr6_sgram_8gb_brief.pdf?rev=cf98a21f67f64c33ba0fc7572213b50f
+$ENDCMP
+#
+#End Doc Library
