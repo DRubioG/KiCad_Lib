@@ -1,0 +1,20 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# zynq
+#
+DEF zynq U 0 40 Y Y 3 L N
+F0 "U" 0 -1100 50 H V C CNN
+F1 "zynq" 0 -1100 50 H V C CNN
+F2 "" 0 -1100 50 H I C CNN
+F3 "" 0 -1100 50 H I C CNN
+DRAW
+X dy ~ 550 400 150 L 50 50 1 1 I
+X fg ~ 550 200 150 L 50 50 1 1 I
+X fh ~ 550 300 150 L 50 50 1 1 I
+X rs ~ 550 500 150 L 50 50 1 1 I
+X sf ~ 550 100 150 L 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library
